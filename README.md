@@ -1,1 +1,0 @@
-# Java-jenkins-in-docker
